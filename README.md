@@ -39,7 +39,7 @@ This is a Custom PC Builder and Store developed using ASP.NET Web Forms, C# and 
 
 ### Home Page
 
-![Home Page](Screenshots/home-page.jpeg)
+![Home Page](Screenshots/home-page.PNG)
 
 ### Product Page
 
@@ -67,7 +67,7 @@ This is a Custom PC Builder and Store developed using ASP.NET Web Forms, C# and 
 
 Watch the project demo here:
 
-[▶ Custom PC Builder and Store Demo](Demo/Custom-PC-Builder-and-Store-Demo-Video.mp4)
+[▶ Custom PC Builder and Store Demo](Demo/Custom-Pc-Builder-and-Store-Demo-Video.mp4)
 
 ---
 
